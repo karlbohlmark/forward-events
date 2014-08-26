@@ -1,0 +1,7 @@
+{
+    "name": "forward-events",
+    "repo": "karlbohlmark/forward-events",
+    "dependencies": {},
+    "scripts": ["index.js"],
+    "main": "index.js"
+}
